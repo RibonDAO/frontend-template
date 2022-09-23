@@ -88,7 +88,7 @@
     "@testing-library/react-hooks": "^8.0.1",
     "@types/react-router": "^5.1.5",
     "@types/react-router-dom": "^5.3.2",
-    "@types/styled-components": "^5.1.20",
+    "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^5.30.5",
     "@typescript-eslint/parser": "^5.30.4",
     "axios-mock-adapter": "^1.20.0",
