@@ -1,0 +1,1 @@
+# Ribon frontend project template
