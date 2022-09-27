@@ -113,19 +113,6 @@ yarn storybook
 
 ![storybook-example-screenshot](https://user-images.githubusercontent.com/24739860/175363555-461e4c27-a994-470e-982b-f4c482b6e121.png)
 
-### 💾 Back-End environments
-
-In local development the data comes from the [development API](https://github.com/RibonDAO/core-api) (hosted on AWS). There are still two another environments:
-
-- Staging: [https://ribon-dapp-staging.web.app/?integration_id=1](https://ribon-dapp-staging.web.app/?integration_id=1)
-- Production: [https://dapp.ribon.io/?integration_id=1](https://dapp.ribon.io/?integration_id=1)
-
-The staging environment is a production replica, but with a different database. Every time a PR is merged into _main_ this environment is updated with the new code
-
-The production environment is the environment that users are in. Every new merge in main updates this environment
-
-Both environments are hosted on firebase.
-
 ## 🤝 Contributing
 
 We encourage you to contribute! Please check out the [Contributing guide](https://ribondao.github.io/docs/) for guidelines about how to proceed.
